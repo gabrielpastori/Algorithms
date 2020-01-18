@@ -1,1 +1,1 @@
-<h1>Contém algoritmos clássicos</h1>
+<h1>Contém algoritmos clássicos.</h1>
